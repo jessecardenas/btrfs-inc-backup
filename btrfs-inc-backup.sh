@@ -3,6 +3,7 @@
 # todo:
 #  snapshot cleanup
 #  test if its efficient
+#  rewrite in python using kdave/btrfs-progs/libbtrfsutil
 
 src=/mnt/testsrc
 dst=/mnt/testdst
